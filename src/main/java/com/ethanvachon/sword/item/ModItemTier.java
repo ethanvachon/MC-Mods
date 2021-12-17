@@ -20,7 +20,7 @@ import net.minecraft.world.item.crafting.Ingredient;
 		@Override
 		public float getAttackDamageBonus() {
 			// TODO Auto-generated method stub
-			return 10;
+			return 5;
 		}
 		@Override
 		public int getLevel() {
@@ -30,7 +30,7 @@ import net.minecraft.world.item.crafting.Ingredient;
 		@Override
 		public int getEnchantmentValue() {
 			// TODO Auto-generated method stub
-			return 10;
+			return 20;
 		}
 		@Override
 		public Ingredient getRepairIngredient() {
